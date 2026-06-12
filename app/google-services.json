@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "123456789012",
+    "project_id": "placeholder-project-id",
+    "storage_bucket": "placeholder-project-id.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123456789012:android:abcdef1234567890",
+        "android_client_info": {
+          "package_name": "com.aistudio.rechazoscalidad.vtzqxp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "dummy-api-key-here-for-local-builds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

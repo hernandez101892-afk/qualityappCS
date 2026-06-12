@@ -1,0 +1,6 @@
+{
+  "name": "Rechazos Calidad",
+  "description": "Control de materiales rechazados y seguimiento de calidad en planta industrial",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
